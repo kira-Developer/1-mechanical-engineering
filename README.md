@@ -23,11 +23,3 @@ Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/
 ## Parts lengths:
 - Click [here](https://github.com/farahhrs/Task1-mechanical-engineering/blob/main/Parts%20lengths%20.jpg) to see my suggestion for parts lengths of the robot leg.
 
-
-
-## some img
-![Movement animation](https://user-images.githubusercontent.com/60257920/180092087-b08807eb-bb40-4233-b002-94efaf6d26a0.gif)
-![Parts lengths ](https://user-images.githubusercontent.com/60257920/180092103-c2b5fae5-d083-43fa-a39a-79f06f53c15b.jpg)
-![Movement angle](https://user-images.githubusercontent.com/60257920/180092107-60971464-032d-4fe7-9e7f-14a1cdf7aa59.jpg)
-![Before movement](https://user-images.githubusercontent.com/60257920/180092111-fa1b84aa-24db-4f24-b729-248e97f4a4ab.png)
-![After movement](https://user-images.githubusercontent.com/60257920/180092115-01d8914d-df24-46c0-8a7c-1bf6b51c0935.png)
